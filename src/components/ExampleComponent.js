@@ -7,9 +7,7 @@ import s from '../styles/exampleComponent.style';
 
 const ExamplePageText = () => (
   <p style={s.p}>
-    This is an example page. Refresh the page or copy/paste the url to
-    test out the redirect functionality (this same page should load
-      after the redirect).
+    라이브러리 차트 들어갈곳
   </p>
 );
 
